@@ -1,0 +1,26 @@
+table tr td{
+	border: 1px solid black; /* borda da tabela */
+}
+
+table{
+	width: 80%; /* largura da tabela */
+	margin: auto; /* alinhamento centralizado da tabela */
+}
+
+button{
+	color: 	#00FFFF	; /* cor do texto do botão */
+	background-color: #4682B4;
+	font-size: 15px; /* tamanho da fonte do botão */
+	border-radius: 50px 50px 50px 50px; /* arredonda os cantos - no sentido horário*/
+	margin-top: 20px; /* espaço do topo da tabela até o botão */
+	margin-bottom: 20px; /* espaço do fim da tabela até o botão */
+	margin-left: 20px; /* margem a esquerda, os números não são somandos, o maior vai predominar */
+	margin-right: 20px; /* margem a direira */
+
+	/* margin: 50px 20px 20px 20px; "Primeiro valor Topo - Segundo valor Direito - Terceiro valor baixo - Quarto valor esquerdo" */
+
+	padding-top: 5px; /* margem interna topo do botão*/
+	padding-bottom:5px; /* margem interna inferior do botão */
+	padding-left: 8px; /* margem interna esquerda do botão */
+	padding-right: 8px /* margem interna direita do botão */
+}
