@@ -24,3 +24,9 @@ button{
 	padding-left: 8px; /* margem interna esquerda do botão */
 	padding-right: 8px /* margem interna direita do botão */
 }
+
+h1{
+	color: #A020F0; /* cor do texto */
+	font-size: 50px; /* tamanho do texto */
+	font-family: 'magneto'; /* fonte do texto */
+}
