@@ -8,8 +8,8 @@ table{
 }
 
 button{
-	color: 	#00FFFF	; /* cor do texto do botão */
-	background-color: #4682B4;
+	color: 	#3300ff	; /* cor do texto do botão */
+	background-color: #f2ff00;
 	font-size: 15px; /* tamanho da fonte do botão */
 	border-radius: 50px 50px 50px 50px; /* arredonda os cantos - no sentido horário*/
 	margin-top: 20px; /* espaço do topo da tabela até o botão */
